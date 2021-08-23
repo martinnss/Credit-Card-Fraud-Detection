@@ -1,11 +1,10 @@
-# Credit-Card-Fraud-Detection
 https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 * empe
 
 
-# Customer Segmentation 
+# Credit Card Fraud Detection
 This project is a part of the [Martinnss Data Science Portfolio](https://github.com/martinnss?tab=repositories).  Feel free to contact me if you have any questions or if you are interested in contributing! [This is my LinkedIn account](https://cl.linkedin.com/in/mart%C3%ADn-olivares-tapia-5577a820a).
 
 #### -- Project Status: Active
